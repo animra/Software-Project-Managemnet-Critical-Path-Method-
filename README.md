@@ -10,4 +10,6 @@ I considered my project **(Anomaly Detection in Electrocardiogram Signals based 
 * Provided CPM network diagram after backward pass
 * Provided Activity Table after backward pass
 *Identified Critical Path and drew a critical path diagram
-** I used Microsoft Project Managemnet**
+
+Note: **I used Microsoft Project Managemnet**
+
