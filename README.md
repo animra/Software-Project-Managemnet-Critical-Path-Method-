@@ -1,4 +1,4 @@
-**Software Project Management (Critical Path Method)**
+**Software Project Management: (Critical Path Method)**
 
 I considered my project **(Anomaly Detection in Electrocardiogram Signals based on Deep Learning Network)** and formulated network model using CPM Conventions. 
 (Note: You can use your project and if you simply follow my document you will able to formulate network model using CPM)
